@@ -142,9 +142,10 @@ Modify the `preprocess_image()` function in `model_utils.py` to adjust:
 
 This project is for educational and research purposes. Please ensure you have the necessary permissions for any model weights used.
 
-## 🤝 Contributing
+## 🤝 Contributors:
 
-Feel free to submit issues, feature requests, or pull requests to improve the application!
+VisionTransformer: Low Ze Xuan, Terrence Chan Jun Seng
+MobileNetV3: Francis Tan Jing Xuan
 
 ---
 
